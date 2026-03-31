@@ -59,7 +59,7 @@ The system takes user input from the command line and optionally displays a grap
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/tfkhtr/aiml-project.git
 cd your-repo
 ```
 
