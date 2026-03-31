@@ -60,7 +60,7 @@ The system takes user input from the command line and optionally displays a grap
 
 ```
 git clone https://github.com/tfkhtr/aiml-project.git
-cd your-repo
+cd aiml-project
 ```
 
 ### 2. Install Dependencies
